@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book>
+        <author>Homero</author>
+        <name>Odyssey</name>
+    </book>
+    <book>
+        <author>J.K Rowlyng</author>
+        <name>Harry potter and the Ms. Norrys</name>
+    </book>
+    <book>
+        <author>Sthepen King</author>
+        <name>Pet Sematary</name>
+    </book>
+    <book>
+        <author>Hello World</author>
+        <name>你好世界</name>
+    </book>
+    <book>
+        <author>Hello World</author>
+        <name>한자2</name>
+    </book>
+    <book>
+        <author>Hello World</author>
+        <name>Радость</name>
+    </book>
+    <book>
+        <author>Hello World</author>
+        <name>Улыбаться</name>
+    </book>
+    <book>
+        <author>Hello World</author>
+        <name>Улыбаться</name>
+    </book>
+    <book>
+        <author>Hello World</author>
+        <name>УлыбатьсяXXX</name>
+    </book>
+    <book>
+        <author>Isak Azimov</author>
+        <name>End of spirit Trilogy</name>
+    </book>
+</bookstore>
